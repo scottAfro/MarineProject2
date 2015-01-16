@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="Simple Preferences">
+		<CheckBoxPreference
+			android:key="checkbox"
+			android:title="Checkbox Preference"
+			android:summary="Check it on, check it off"/>		
+	</PreferenceCategory>
+		
+	<PreferenceCategory android:title="Scientes Infromation">
+		<EditTextPreference
+			android:key="text"
+			android:title="Ship's Name"
+			android:summary="Click to pop up a field for entry"
+			android:dialogTitle="Enter Name"/>
+		<EditTextPreference
+			android:key="text"
+			android:title="Your Name"
+			android:summary="Click to pop up a field for entry"
+			android:dialogTitle="Enter Name"/>
+		<EditTextPreference
+			android:key="text"
+			android:title="Email Address"
+			android:summary="Click to pop up a field for entry"
+			android:dialogTitle="Enter Address"/>
+		
+	</PreferenceCategory>
+
+</PreferenceScreen>

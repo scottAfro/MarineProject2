@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CelticExplorer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camer_page">CamerPage</string>
+    <string name="Capture">Capture</string>
+    <string name="tap">Tap the image to open the camera!!</string>
+    <string name="title_activity_dynamic_button">DynamicButton</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="checkbox">Checkbox:</string> 
+    <string name="text">Text:</string>
+    <string name="edit_pref">Edit Preferences</string>
+</resources>
